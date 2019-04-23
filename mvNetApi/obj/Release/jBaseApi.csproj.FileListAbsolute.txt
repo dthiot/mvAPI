@@ -1,0 +1,102 @@
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\jBaseApi.dll.config
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\jBaseApi.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\jBaseApi.pdb
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\Antlr3.Runtime.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\Newtonsoft.Json.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Net.Http.Formatting.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Helpers.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Http.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Http.WebHost.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Mvc.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Optimization.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Razor.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Webpages.Deployment.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Webpages.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Webpages.Razor.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\WebGrease.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\Antlr3.Runtime.pdb
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Optimization.xml
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Razor.xml
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Webpages.xml
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Webpages.Deployment.xml
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Webpages.Razor.xml
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Helpers.xml
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Mvc.xml
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\Newtonsoft.Json.xml
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Net.Http.Formatting.xml
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Http.xml
+C:\Projects\DCS\JbaseApi\jBaseApi\bin\System.Web.Http.WebHost.xml
+C:\Projects\DCS\JbaseApi\jBaseApi\obj\Release\jBaseApi.dll
+C:\Projects\DCS\JbaseApi\jBaseApi\obj\Release\jBaseApi.pdb
+C:\Projects\DCS\JbaseApi\jBaseApi\obj\Release\jBaseApi.csprojResolveAssemblyReference.cache
+E:\Projects\DCS\JbaseApi\jBaseApi\obj\Release\jBaseApi.csprojResolveAssemblyReference.cache
+E:\Projects\DCS\JbaseApi\jBaseApi\obj\Release\jBaseApi.dll
+E:\Projects\DCS\JbaseApi\jBaseApi\obj\Release\jBaseApi.pdb
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\jBaseApi.dll.config
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\jBaseApi.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\jBaseApi.pdb
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\Antlr3.Runtime.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\BlueFinity.mvNET.CoreObjects.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\Newtonsoft.Json.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Net.Http.Formatting.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Helpers.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Http.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Http.WebHost.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Mvc.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Optimization.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Razor.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Webpages.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Webpages.Razor.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\WebGrease.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\Antlr3.Runtime.pdb
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\BlueFinity.mvNET.CoreObjects.xml
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Optimization.xml
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Razor.xml
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Webpages.xml
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Webpages.Razor.xml
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Helpers.xml
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Mvc.xml
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\Newtonsoft.Json.xml
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Net.Http.Formatting.xml
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Http.xml
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\bin\System.Web.Http.WebHost.xml
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\obj\Release\jBaseApi.csprojResolveAssemblyReference.cache
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\obj\Release\jBaseApi.dll
+C:\Users\dthiot\Documents\Projects\DCS\JbaseApi_20160410\JbaseApi\jBaseApi\obj\Release\jBaseApi.pdb
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\jBaseApi.dll.config
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\jBaseApi.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\jBaseApi.pdb
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\Antlr3.Runtime.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\BlueFinity.mvNET.CoreObjects.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\Newtonsoft.Json.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Net.Http.Formatting.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Helpers.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Http.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Http.WebHost.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Mvc.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Optimization.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Razor.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Webpages.Deployment.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Webpages.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Webpages.Razor.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\WebGrease.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\Antlr3.Runtime.pdb
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\BlueFinity.mvNET.CoreObjects.xml
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Optimization.xml
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Razor.xml
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Webpages.xml
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Webpages.Deployment.xml
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Webpages.Razor.xml
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Helpers.xml
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Mvc.xml
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\Newtonsoft.Json.xml
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Net.Http.Formatting.xml
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Http.xml
+E:\Projects\VS 2015\mvWS\jBaseApi\bin\System.Web.Http.WebHost.xml
+E:\Projects\VS 2015\mvWS\jBaseApi\obj\Release\jBaseApi.csprojResolveAssemblyReference.cache
+E:\Projects\VS 2015\mvWS\jBaseApi\obj\Release\jBaseApi.dll
+E:\Projects\VS 2015\mvWS\jBaseApi\obj\Release\jBaseApi.pdb

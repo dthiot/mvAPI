@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<doc>
+    <assembly>
+        <name>BlueFinity.mvNET.CoreObjects</name>
+    </assembly>
+    <members>
+        <member name="N:BlueFinity.mvNET.CoreObjects">
+            <summary>Contains all members of the Core Objects API.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvAccount">
+            <summary>Provides a connection to a specific mv database account. This
+is the main class for accessing the contents of an mv
+database.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount._ctor">
+            <summary>The mvAccount constructor allows a variety of settings to be
+supplied in order to specify the precise nature of login
+required.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount._ctor(System.String)">
+            <summary>Allows a login profile name to be specified to control the
+login process.</summary>
+            <remarks>This overload assumes that the user name and password
+parameters that can be passed into the login process are either
+specified within the account profile definition or are not
+required.</remarks>
+            <param name="LoginName">The name of the login profile to be used.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount._ctor(System.String,System.String)">
+            <summary>Allows a server and account profile name to be specified to
+control the login process.</summary>
+            <remarks>This overload assumes that the user name and password
+parameters that can be passed into the login process are either
+specified within the account profile definition or are not
+required.</remarks>
+            <param name="ServerName">The name of the server profile to be used.</param>
+            <param name="AccountName">The name of the account profile to be used.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount._ctor(System.String,System.String,System.String,System.String)">
+            <summary>Allows a login profile name to be specified to control the
+login process, along with other values to be used during the
+process.</summary>
+            <param name="LoginName">The name of the login profile to be used.</param>
+            <param name="UserName">The user name to be used during the login process. The exact
+use of this setting depends on the type and content of the server
+profile being used.</param>
+            <param name="Password">The password to be used during the login process. The exact
+use of this setting depends on the type and content of the server
+profile being used.</param>
+            <param name="ApplicationGUID">The unique identifier for this session. This is only required
+if you are re-connecting with a previous (stateless)
+session.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount._ctor(System.String,System.String,System.String,System.String,System.String)">
+            <summary>Allows a server and account profile name to be specified to
+control the login process, along with other values to be used
+during the process.</summary>
+            <param name="ServerName">The name of the server profile to be used.</param>
+            <param name="AccountName">The name of the account profile to be used.</param>
+            <param name="UserName">The user name to be used during the login process. The exact
+use of this setting depends on the type and content of the server
+profile being used.</param>
+            <param name="Password">The password to be used during the login process. The exact
+use of this setting depends on the type and content of the server
+profile being used.</param>
+            <param name="ApplicationGUID">The unique identifier for this session. This is only required
+if you are re-connecting with a previous (stateless)
+session.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg">
+            <summary>Calls a cataloged mv DataBASIC subroutine. Each overload
+allows a different number of arguments to be supplied. This
+must match the number of arguments
+expected by the target subroutine otherwise the server-side
+components will crash.</summary>
+            <remarks>All arguments are read/write.</remarks>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String)">
+            <summary>Calls a subroutine expecting no argumets.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@)">
+            <summary>Calls a subroutine expecting 1 argument.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 2 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 3 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 4 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 5 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 6 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 7 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 8 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 9 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 10 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 11 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 12 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 13 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 14 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 15 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 16 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 17 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 18 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 19 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.CallProg(System.String,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@,System.String@)">
+            <summary>Calls a subroutine expecting 20 arguments.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.Environment">
+            <summary>The parent mvEnviroment instance for this mvAccount
+object.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.Execute">
+            <summary>Executes any command-line statement.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.Execute(System.String)">
+            <summary>Executes the supplied command-line statement.</summary>
+            <param name="Command">The command to execute.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.Execute(System.String,System.String@)">
+            <summary>Executes the supplied command with the capture of screen
+output but with no capture of return status.</summary>
+            <param name="Command">The command to execute.</param>
+            <param name="Output">The screen output generated during the execution of the
+supplied command.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.Execute(System.String,System.String@,System.String@)">
+            <summary>Executes the supplied command with the capture of both screen
+output and return status.</summary>
+            <param name="Command">The command to execute.</param>
+            <param name="Output">The screen output generated during the execution of the
+supplied command.</param>
+            <param name="ReturnStatus">The final return status of the command.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileClear(System.String)">
+            <summary>    Deletes all items within a file without deleting the file
+    as a whole.</summary>
+            <param name="FileName">    The name fo the file to clear. This should take one of
+    the following forms:
+    filename - clears the default data portion of
+    the file
+    DICT filename - clears the dictionary portion of the
+    file
+    filename,dataportion - clears a specific data portion
+    of the file</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileCount">
+            <summary>Counts the number of items within a file.</summary>
+            <returns>Int32 representing the number of items counted.</returns>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileCount(System.String)">
+            <summary>Counts all items within the file.</summary>
+            <returns>Int32 represnting the number of items counted.</returns>
+            <param name="FileName">    The name of the file to count items within. This parameter
+    should take one of the following forms: 
+    filename - counts items in the
+    default data portion of the file
+    DICT filename - counts items in the
+    dictionary portion of the file
+    filename,dataportion - counts items
+    in a specific data portion of the file</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileCount(System.String,System.String)">
+            <summary>Counts a selective number of items within a file.</summary>
+            <returns>Int32 represnting the number of items counted.</returns>
+            <param name="FileName">    The name of the file to count items within. This parameter
+    should take one of the following forms: 
+    filename - counts items in the
+    default data portion of the file
+    DICT filename - counts items in the
+    dictionary portion of the file
+    filename,dataportion - counts items
+    in a specific data portion of the file</param>
+            <param name="SelectClause">    The selection clause to be used to identify items for
+    inclusion in the counted total. For example:
+    WITH NAME = "Blue]"
+    will count all items with a NAME field starting with the
+    string 'Blue'.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileCreate">
+            <summary>Creates a new database file.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileCreate(System.String,System.String)">
+            <summary>Creates a single dictionary or data portion of a database
+file.</summary>
+            <param name="FileName">    The name of the new file portion to create. This should
+    take one of the following forms:
+    dictname - creates a new file
+    with only a dictionary portion, where
+    dictname is the name of the new
+    file.
+    dictname,filename - creates a new
+    data portion within an existing file, where
+    dictname is the name of the existing
+    file and filename is the name of the
+    new data portion.</param>
+            <param name="Modulo">    The modulo of the new file portion. This should take one of the
+    following forms: 
+    modulo - uses a modulo of
+    modulo and separation of 1.
+    modulo,sep - uses a modulo of
+    modulo and separation of
+    sep.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileCreate(System.String,System.String,System.Boolean,System.String)">
+            <summary>Creates a single dictionary or data portion of a database
+file copying the dictionary contents from an existing file to the
+new portion.</summary>
+            <param name="FileName">    The name of the new file portion to create. This should
+    take one of the following forms:
+    dictname - creates a new file
+    with only a dictionary portion, where
+    dictname is the name of the new
+    file.
+    dictname,filename - creates a new
+    data portion within an existing file, where
+    dictname is the name of the existing
+    file and filename is the name of the
+    new data portion.</param>
+            <param name="Modulo">    The modulo of the new file portion. This should take one of the
+    following forms: 
+    modulo - uses a modulo of
+    modulo and separation of 1.
+    modulo,sep - uses a modulo of
+    modulo and separation of
+    sep.</param>
+            <param name="DictCopy">Should be set to a value of True.</param>
+            <param name="SourceDict">    The name of the file to supply the dictionary content. This
+    should take one of the following forms: 
+    dictname - the dictionary
+    content will be supplied from the dictionary of file
+    dictname.
+    dictname,filename - the dictionary
+    content will be supplied from data portion
+    filename of file
+    dictname.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileCreate(System.String,System.String,System.String)">
+            <summary>Creates a new database file allowing the dictionary and data
+portion sizes to be specified.</summary>
+            <param name="FileName">The name of the new file to create. A data portion of the
+same name will be created.</param>
+            <param name="ModuloDict">    The modulo of the new file's dictionary portion. This should
+    take one of the following forms: 
+    modulo - uses a modulo of
+    modulo and separation of 1.
+    modulo,sep - uses a modulo of
+    modulo and separation of
+    sep.</param>
+            <param name="ModuloData">    The modulo of the new file's data portion. This should take one
+    of the following forms: 
+    modulo - uses a modulo of
+    modulo and separation of 1.
+    modulo,sep - uses a modulo of
+    modulo and separation of
+    sep.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileCreate(System.String,System.String,System.String,System.Boolean,System.String)">
+            <summary>Creates a new database file allowing the dictionary and data
+portion sizes to be specified and copies the dictionary contents
+from an existing file to the new dictionary portion.</summary>
+            <param name="FileName">The name of the new file to create. A data portion of the
+same name will be created.</param>
+            <param name="ModuloDict">    The modulo of the new file's dictionary portion. This should
+    take one of the following forms: 
+    modulo - uses a modulo of
+    modulo and separation of 1.
+    modulo,sep - uses a modulo of
+    modulo and separation of
+    sep.</param>
+            <param name="ModuloData">    The modulo of the new file's data portion. This should take one
+    of the following forms: 
+    modulo - uses a modulo of
+    modulo and separation of 1.
+    modulo,sep - uses a modulo of
+    modulo and separation of
+    sep.</param>
+            <param name="DictCopy">Should be set to a value of True.</param>
+            <param name="SourceDict">    The name of the file to supply the dictionary content. This
+    should take one of the following forms: 
+    dictname - the dictionary
+    content will be supplied from the dictionary of file
+    dictname.
+    dictname,filename - the dictionary
+    content will be supplied from data portion
+    filename of file
+    dictname.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileDelete(System.String)">
+            <summary>FileDelete helpDeletes a database file.</summary>
+            <param name="FileName">    The name of the file to delete. This should take one of the
+    following forms: 
+    dictname - deletes the
+    dictionary and all data portions of file
+    dictname.
+    dictname,filename - deletes data
+    portion filename within file
+    dictname.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileList">
+            <summary>Retrieves the list of files within the account.</summary>
+            <returns>String array with each element containing a file name.</returns>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileList">
+            <summary>Retrieves the list of files within the account.</summary>
+            <returns>String array with each element containing a file name.</returns>
+            <remarks>    The file names returned by this method will be derived using
+    one of the following (in order of precedence) approaches: 
+    1. If the FileList method has already been invoked for
+    this mvAccount instance, the previously assembled list will be
+    used; i.e. no roundtrip to the database server will be
+    performed.
+    2. If a Visible Files List has been created (using the Data
+    Manager), this list will be used to supply the file names. No
+    scanning of the account's MD/VOC will be performed.
+    3. If a Hidden Files List has been created (using the
+    Data Manager), the account's MD/VOC will be scanned for file
+    names and the resulting list will have any entries in the
+    Hidden Files List removed.
+    4. The account's MD/VOC will be scanned for file
+    names.</remarks>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileList(System.Boolean)">
+            <summary>If the files list hasn't been cached yet, this overload will
+force the list of files within the account to be assembled by
+scanning the account's MD/VOC for file names.</summary>
+            <returns>String array with each element containing a file name.</returns>
+            <remarks>This overload will always result in the account's MD/VOC
+beign scanned for file entries.</remarks>
+            <param name="ForceFullScan">Set this parameter to True.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileList(System.Boolean,System.Boolean)">
+            <summary>This overload will force a trip to the server in order to
+assemble the list of files within the account.</summary>
+            <param name="ForceFullScan">If this parameter is set to true, the list of files within
+the account to be assembled by scanning the account's MD/VOC for
+file names.</param>
+            <param name="RegenerateList">Set this parameter to True.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileOpen">
+            <summary>Allows a file within the account to be opened ready for
+access.</summary>
+            <returns>mvFile instance - which can then be used to access data
+within the file.</returns>
+            <remarks>    The FileName parameter should take one of the following
+    forms:
+    filename - opens the default data portion of the
+    file
+    DICT filename - opens the dictionary portion of the
+    file
+    filename,dataportion - opens a specific data portion
+    of the file</remarks>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileOpen(System.String)">
+            <summary>Allows the file to be opened without retrieving the schema of
+the file. This overload should be used if you are not going to
+retrieve or set data within the file based on schema (dictionary)
+names.</summary>
+            <param name="FileName">    The name of the file to open. This should take one of the
+    following forms: 
+    dictname - opens the default
+    data portion of file dictname.
+    dictname,dataname
+    - opens data portion dataname of file
+    dictname.
+    DICT dictname - opens dictionary
+    portion of file dictname.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileOpen(System.String,System.Boolean)">
+            <summary>Allows the schema for the file to be retreived as part of the
+open action. It should be used if you are going to retrieve or set
+data within the file based on schema (dictionary) names.</summary>
+            <param name="FileName">    The name of the file to open. This should take one of the
+    following forms: 
+    dictname - opens the default
+    data portion of file dictname.
+    dictname,dataname
+    - opens data portion dataname of file
+    dictname.</param>
+            <param name="LoadSchema">Set this parameter to True.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileOpen(System.String,System.Boolean,System.String)">
+            <summary>Allows the schema for the file to be retreived as part of the
+open action, reading schema items from a location different to that
+of the file's own default dictionary. It should be used if you are
+going to retrieve or set data within the file based on schema
+(dictionary) names</summary>
+            <param name="FileName">    The name of the file to open. This should take one of the
+    following forms: 
+    dictname - opens the default
+    data portion of file dictname.
+    dictname,dataname
+    - opens data portion dataname of file
+    dictname.</param>
+            <param name="LoadSchema">Set this parameter to True.</param>
+            <param name="UsingDict">    The name of the file to provide the schema. This should take
+    one of the following forms: 
+    dictname - uses the default
+    dictionary of file dictname.
+    dictname,dataname
+    - uses data portion dataname of file
+    dictname.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileOpen(System.String,System.String)">
+            <summary>Allows the file to be opened without retrieving the schema of
+the file, but predefines the location from which schema data is to
+be subsequently retrieved if required.</summary>
+            <param name="FileName">    The name of the file to open. This should take one of the
+    following forms: 
+    dictname - opens the default
+    data portion of file dictname.
+    dictname,dataname
+    - opens data portion dataname of file
+    dictname.</param>
+            <param name="UsingDict">    The name of the file to provide the schema. This should take
+    one of the following forms: 
+    dictname - uses the default
+    dictionary of file dictname.
+    dictname,dataname
+    - uses data portion dataname of file
+    dictname.</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileOpenBool">
+            <summary>Same as the FileOpen method except as a method function
+returning a boolean value indicating whether the specified file was
+successfully opened. All overloads have a by reference final
+argument which is set to the resultant mvFile instance if the file
+is successfully opened.</summary>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileOpenBool(System.String,System.Boolean,mvFile@)">
+            <summary>    Same as the equivalent FileOpen method except returns a boolean
+    value indicating whether the specified file was successfully
+    opened. All overloads have a by reference final argument which
+    is set to the resultant mvFile instance if the file is
+    successfully opened. 
+    
+    
+    FileOpen(String,Boolean) Method</summary>
+            <param name="FileName">    Same as the equivalent FileOpen method. 
+    
+    
+    FileOpen(String,Boolean) Method</param>
+            <param name="LoadSchema">    Same as the equivalent FileOpen method. 
+    
+    
+    FileOpen(String,Boolean) Method</param>
+            <param name="FileObject">    Same as the equivalent FileOpen method. 
+    
+    
+    FileOpen(String,Boolean) Method</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileOpenBool(System.String,System.Boolean,System.String,mvFile@)">
+            <summary>    Same as the equivalent FileOpen method except returns a boolean
+    value indicating whether the specified file was successfully
+    opened. All overloads have a by reference final argument which
+    is set to the resultant mvFile instance if the file is
+    successfully opened. 
+    
+    
+    FileOpen Method</summary>
+            <param name="FileName">    Same as the equivalent FileOpen method. 
+    
+    
+    FileOpen Method</param>
+            <param name="LoadSchema">    Same as the equivalent FileOpen method. 
+    
+    
+    FileOpen Method</param>
+            <param name="UsingDict">    Same as the equivalent FileOpen method. 
+    
+    
+    FileOpen
+    Method
+    </param>
+            <param name="FileObject">    Same as the equivalent FileOpen method. 
+    
+    
+    FileOpen Method</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileOpenBool(System.String,mvFile@)">
+            <summary>    Same as the equivalent FileOpen method except returns a boolean
+    value indicating whether the specified file was successfully
+    opened. All overloads have a by reference final argument which
+    is set to the resultant mvFile instance if the file is
+    successfully opened. 
+    
+    
+    FileOpen(String)
+    Method
+    </summary>
+            <param name="FileName">    Same as the equivalent FileOpen method. 
+    
+    
+    FileOpen(String)
+    Methodhref="BlueFinity.mvNET.CoreObjects~BlueFinity.mvNET.CoreObjects.mvAccount~FileOpen(String).html"&gt;</param>
+            <param name="FileObject">    Same as the equivalent FileOpen method. 
+    
+    
+    FileOpen(String)
+    Methodhref="BlueFinity.mvNET.CoreObjects~BlueFinity.mvNET.CoreObjects.mvAccount~FileOpen(String).html"&gt;</param>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvAccount.FileOpenBool(System.String,System.String,mvFile@)">
+            <summary>    Same as the equivalent FileOpen method except returns a boolean
+    value indicating whether the specified file was successfully
+    opened. All overloads have a by reference final argument which
+    is set to the resultant mvFile instance if the file is
+    successfully opened. 
+    
+    
+    FileOpen(String,String)
+    Method
+    </summary>
+            <param name="FileName">    Same as the equivalent FileOpen method. 
+    
+    
+    FileOpen(String,String)
+    Methodhref="BlueFinity.mvNET.CoreObjects~BlueFinity.mvNET.CoreObjects.mvAccount~FileOpen(String,String).html"&gt;</param>
+            <param name="UsingDict">    Same as the equivalent FileOpen method. 
+    
+    
+    FileOpen(String,String)
+    Methodhref="BlueFinity.mvNET.CoreObjects~BlueFinity.mvNET.CoreObjects.mvAccount~FileOpen(String,String).html"&gt;</param>
+            <param name="FileObject">    Same as the equivalent FileOpen method. 
+    
+    
+    FileOpen(String,String)
+    Methodhref="BlueFinity.mvNET.CoreObjects~BlueFinity.mvNET.CoreObjects.mvAccount~FileOpen(String,String).html"&gt;</param>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvAccount.AppSessionGUID">
+            <summary>The unique identifier for this login session.</summary>
+            <remarks>This is only relevent for sessions that have been established
+within a stateless environment.</remarks>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvAccount.CommandTimeoutPeriod">
+            <summary>The default maximum wait period for a response back from the
+MultiValued server upon issuing any form of request/action.
+Defaults to 30 seconds.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvDataTable">
+            <summary>Inherits from the ADO.NET DataTable class. Provides ADO.NET
+style access to the data within an mvItemList instance.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvEnvironment">
+            <summary>The top level class, primarily providing access to the
+Configuration Database.</summary>
+            <remarks>    The mvEnvironment object, logically, sits at the top of
+    the object hierarchy. Its primary purpose is to provide access
+    to the configuration database - the database holding the
+    definition of which servers and accounts are accessible from
+    this workstation.
+    An mvEnvironment instance may be viewed as the
+    environment described by the local Configuration Database, i.e.
+    an environment that is made up of multivalued database servers,
+    accounts, etc.
+    The creation and maintenance of an environment's
+    definition, i.e. the creation and maintenance of Configuration
+    Database entries, will typically be achieved using mv.NET's
+    Data Manager application. This application, amongst many other
+    things, provides any easy to use and intuitive interface for
+    maintaining the contents of the Configuration Database.
+    However, if you wish to maintain the Configuration Database
+    programmatically you may do this via the mvEnvironment
+    class.</remarks>
+        </member>
+        <member name="M:BlueFinity.mvNET.CoreObjects.mvEnvironment.SharedSessionActive">
+            <summary>Indicates whether a shared pooled connection is currently
+active for the supplied account.</summary>
+            <returns>True if a shared pooled session is currently active.</returns>
+            <remarks>This method can be used, for example, to preemptively test
+whether an account login request will be actioned by returned a
+reference to an existing session. It is primarily used internally
+by Core Objects.</remarks>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvEnvironment.Configuration">
+            <summary>Returns an mvConfiguration object allowing access to the
+Configuration Database files.</summary>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvEnvironment.Server(System.String)">
+            <summary>Allows a mvServer reference to be obtained based on server
+profile name.</summary>
+            <remarks>This method will normally be used as part of a account login
+invokation. mvServer objects serve little purpose in their own
+right, but can be used to provide convenient (read-only) access to
+configuration database settings for a server profile.</remarks>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvException">
+            <summary>The standard exception class used internally by all Core
+Objects classes when an error/exception is encountered.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvFile">
+            <summary>Provides a connection to a single database file.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvItem">
+            <summary>Holds a reference to a specific file item.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvItemList">
+            <summary>Hold a (selective) list of mvItem objects.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvQueryColumn">
+            <summary>Represents a single column within an mvQueryColumns
+instance.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvQueryColumns">
+            <summary>Represents the columns within an mvQueryList instance.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvQueryList">
+            <summary>Represents the results of running a query defined using the
+Data Manager.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvQueryRow">
+            <summary>Represents a single row within an mvQueryList
+instance.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvSchema">
+            <summary>Allows maintenance of/access to schema (dictionary) item
+definitions.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvSchemaItem">
+            <summary>Holds a reference to a specific schema item.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvSelect">
+            <summary>Allows advanced selection criteria to be supplied to
+selection oriented methods of the mvAccount and mvFile
+classes.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvServer">
+            <summary>Represents an mv server defined within the Configuration
+Database.</summary>
+            <remarks>    This class allows access to the configuration details of
+    a specific server profile and also allows access to the
+    accounts held on the server.
+    The Item method of the mvEnvironment.Servers property
+    returns an mvServer object.
+    It is unlikely that you will need to use the mvServer
+    class directly, execpt for maybe easy retrieval of server
+    profile details. It is mainly there to provide a complete
+    hierarchy with the class library.</remarks>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvServer.Account(System.String)">
+            <summary>Returns an mvAccount object, the Login method of which may
+then be used be establish a database connection.</summary>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvServer.ConfigurationDefinition">
+            <summary>Returns an mvItem object representing the corresponding
+server profile entry with the Configuration Database.</summary>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvServer.ConnectionAddress">
+            <summary>The connection address setting of the associated server
+profile definition within the configuration database.</summary>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvServer.ConnectionPort">
+            <summary>The connection port setting of the associated server profile
+definition within the configuration database.</summary>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvServer.ConnectionType">
+            <summary>The connection type setting of the associated server profile
+definition within the configuration database.</summary>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvServer.DBType">
+            <summary>The multivalue database type setting of the associated server
+profile definition within the configuration database.</summary>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvServer.Environment">
+            <summary>The parent mvEnvironment instance of this mvAccount
+instance.</summary>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvServer.HostOSType">
+            <summary>The host operating system type setting of the associated
+server profile definition within the configuration database.</summary>
+        </member>
+        <member name="P:BlueFinity.mvNET.CoreObjects.mvServer.Name">
+            <summary>The name of the account profile within the configuration
+database.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.mvSnapshots">
+            <summary>Holds a list of mvItem instances, each representing a named
+snapshot of an item.</summary>
+        </member>
+        <member name="T:BlueFinity.mvNET.CoreObjects.Utilities">
+            <summary>A collection of general utility-type routines provided for
+programmer convenience.</summary>
+        </member>
+    </members>
+</doc>
+

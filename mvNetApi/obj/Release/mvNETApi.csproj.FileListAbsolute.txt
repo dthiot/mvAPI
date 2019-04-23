@@ -1,0 +1,138 @@
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\mvNETApi.dll.config
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\mvNETApi.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\mvNETApi.pdb
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\Antlr3.Runtime.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\BlueFinity.mvNET.CoreObjects.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\Newtonsoft.Json.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Net.Http.Formatting.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Helpers.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Http.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Http.WebHost.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Mvc.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Optimization.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Razor.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Webpages.Deployment.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Webpages.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Webpages.Razor.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\WebGrease.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\Antlr3.Runtime.pdb
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\BlueFinity.mvNET.CoreObjects.xml
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Optimization.xml
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Razor.xml
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Webpages.xml
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Webpages.Deployment.xml
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Webpages.Razor.xml
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Helpers.xml
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Mvc.xml
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\Newtonsoft.Json.xml
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Net.Http.Formatting.xml
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Http.xml
+E:\Projects\VS 2015\mvNET_API\mvNetApi\bin\System.Web.Http.WebHost.xml
+E:\Projects\VS 2015\mvNET_API\mvNetApi\obj\Release\mvNETApi.dll
+E:\Projects\VS 2015\mvNET_API\mvNetApi\obj\Release\mvNETApi.pdb
+E:\Projects\VS 2015\mvNET_API\mvNetApi\obj\Release\mvNETApi.csprojResolveAssemblyReference.cache
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\mvNetApi.dll.config
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\mvNetApi.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\mvNetApi.pdb
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\Antlr3.Runtime.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\BlueFinity.mvNET.CoreObjects.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\Microsoft.Web.Infrastructure.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\Newtonsoft.Json.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Net.Http.Formatting.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Helpers.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Http.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Http.WebHost.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Mvc.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Optimization.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Razor.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Webpages.Deployment.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Webpages.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Webpages.Razor.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\WebGrease.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\Antlr3.Runtime.pdb
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\BlueFinity.mvNET.CoreObjects.xml
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Optimization.xml
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Razor.xml
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Webpages.xml
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Webpages.Deployment.xml
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Webpages.Razor.xml
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Helpers.xml
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Mvc.xml
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\Newtonsoft.Json.xml
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Net.Http.Formatting.xml
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Http.xml
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\bin\System.Web.Http.WebHost.xml
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\obj\Release\mvNetApi.csprojResolveAssemblyReference.cache
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\obj\Release\mvNetApi.dll
+Z:\dthiot\Documents\Projects\mvnet_api\mvNetApi\obj\Release\mvNetApi.pdb
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\mvNetApi.dll.config
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\mvNetApi.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\mvNetApi.pdb
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\BlueFinity.mvNET.CoreObjects.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Net.Http.Formatting.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Http.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Http.WebHost.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Webpages.Deployment.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Webpages.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Webpages.Razor.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\WebGrease.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\Antlr3.Runtime.pdb
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\BlueFinity.mvNET.CoreObjects.xml
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Optimization.xml
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Webpages.xml
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Webpages.Deployment.xml
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Webpages.Razor.xml
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Net.Http.Formatting.xml
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Http.xml
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Http.WebHost.xml
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\obj\Release\mvNetApi.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\obj\Release\mvNetApi.csproj.CopyComplete
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\obj\Release\mvNetApi.dll
+\\vmware-host\Shared Folders\Documents\Projects\mvnet_api 2 params\mvNetApi\obj\Release\mvNetApi.pdb
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\mvNetApi.dll.config
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\mvNetApi.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\mvNetApi.pdb
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\Antlr3.Runtime.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\BlueFinity.mvNET.CoreObjects.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\Microsoft.Web.Infrastructure.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\Newtonsoft.Json.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Net.Http.Formatting.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Helpers.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Http.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Http.WebHost.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Mvc.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Optimization.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Razor.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Webpages.Deployment.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Webpages.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Webpages.Razor.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\WebGrease.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\Antlr3.Runtime.pdb
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\BlueFinity.mvNET.CoreObjects.xml
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Optimization.xml
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Razor.xml
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Webpages.xml
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Webpages.Deployment.xml
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Webpages.Razor.xml
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Helpers.xml
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Mvc.xml
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\Newtonsoft.Json.xml
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Net.Http.Formatting.xml
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Http.xml
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\bin\System.Web.Http.WebHost.xml
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\obj\Release\mvNetApi.csproj.CoreCompileInputs.cache
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\obj\Release\mvNetApi.csproj.CopyComplete
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\obj\Release\mvNetApi.dll
+Z:\dthiot On My Mac\Documents Local\Projects\mvnet_api 2 params\mvNetApi\obj\Release\mvNetApi.pdb
