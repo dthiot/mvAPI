@@ -16,7 +16,9 @@ After you have downloaded the files extract the zip file to a directory open the
   * TlsRequest - true/false to enable TLS for the API.  If you don't have a security certificate this will be false
 * Run the solution in Visual Studio or deploy as a website.
 
-## Sample MultiValue Subroutine ##
+## Sample MultiValue HELLO.WORLD Subroutine ##
+
+**NOTE: The subroutine must be named with the prefix mvNetSubPrefix but the API call does not use the prefix as that is added in code to control what routines can be called through the API.**
 
 SUBROUTINE API.HELLO.WORLD (args, results)
 *
