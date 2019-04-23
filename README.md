@@ -1,6 +1,9 @@
 # README #
 
-Web API 2.0 Web Service allowing call to Mutli-Value database subroutines (Stored Procedures) through Bluefinity's mv.NET
+Web API 2.0 Web Service allowing call to Mutli-Value database subroutines (Stored Procedures). This version only supports Bluefinity's mv.NET.  This is a Visual Studio 2017 project.
+
+Instructions for installation:
+After you have downloaded the 
 
 ### What is this repository for? ###
 
